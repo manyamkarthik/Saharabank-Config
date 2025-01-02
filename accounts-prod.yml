@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to SaharaBank accounts related webhook APIs"
   contactDetails:
     name: "Lavangam  Linda - Product Owner"
-    email: "lavangam.l@sahara.ad.com"
+    email: "{cipher}ab4594fb486010c45ff471afa5d636a41602b627147bdbcc14943fa52d7719aa7b2a6d765ba3c6143559ee660142807c"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
