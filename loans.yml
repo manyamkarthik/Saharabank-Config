@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to SaharaBank loans related local APIs "
+  contactDetails:
+    name: "Bhattu bryan - Developer"
+    email: "bhattu.b@sahara.ad.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
